@@ -1,6 +1,6 @@
 # AZURE VOTING APP REDIS
 
-The application is a Flask application, a basic voting app, consisting of a frontend web component and a backend Redis instance. It comes from a github repo.
+The application is a Flask application, a basic voting app, consisting of a frontend web component and a backend Redis instance.
 
 Those are the steps to manually deploy the application and its associated backend to a VMSS instance. You first need to have created an Azure VMSS.
 
